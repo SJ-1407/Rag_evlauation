@@ -1,10 +1,10 @@
 # RAG Evaluation
 
-This repository contains scripts for evaluating a Retrieval-Augmented Generation (RAG) model using a Jupyter notebook (`rag_evaluation.ipynb`) and deploying it as a Streamlit web application (`app.py`).
+This repository contains scripts for evaluating a Retrieval-Augmented Generation (RAG) model using a Jupyter notebook (`untitled6.ipynb`) and deploying it as a Streamlit web application (`app.py`).
 
 ## Evaluation Results
 
-The evaluation results of the RAG model can be found in the Jupyter notebook `rag_evaluation.ipynb`. This notebook includes:
+The evaluation results of the RAG model can be found in the Jupyter notebook `untitled6.ipynb`. This notebook includes:
 
 - Metrics for evaluating the RAG model performance.
 - Analysis of model accuracy, context relevancy, answer relevance, and answer similarity.
@@ -18,7 +18,7 @@ To view the evaluation results, open `rag_evaluation.ipynb` in a Jupyter noteboo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/SJ-1407/Rag_evlauation.git
    cd your-repository
    ```
 
